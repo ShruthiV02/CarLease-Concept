@@ -57,6 +57,7 @@ http://localhost:8100/swagger-ui.html
 
 http://localhost:8001/swagger-ui.html
 
+Eureka naming server
 http://localhost:8761
 
 
