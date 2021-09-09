@@ -52,8 +52,11 @@ I have made them primary key since I am using in memory database.
 Toyota-Yaris,Toyota-Yaris-Hybrid,Hyundai-Tucson,Hyundai-Bayon,Suzuki-Swift
 
 
+Swagger Links
 http://localhost:8100/swagger-ui.html
+
 http://localhost:8001/swagger-ui.html
+
 http://localhost:8761
 
 
